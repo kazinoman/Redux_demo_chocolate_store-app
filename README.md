@@ -1,4 +1,11 @@
 # Redux_demo_chocolate_store-app
+
+If someone intereste this application, firstly clone this repo,
+    then, run npm install command
+    then, run node index.js comman
+    that's pretty much it !!
+    
+
 This is a redux demo app with no 3rd party redux library app.
  
  In this little application we are keep track the transection and buy/sell process using redux.
